@@ -5,6 +5,10 @@
 <p align="center">This package includes an Aura component that displays 6 different kinds of progress indicators on your Flow screens, to provide your users with easy-to-understand, guided screen flows.</p>
 
 <!-- Sections below are Optional -->
+<a href="https://githubsfdeploy.herokuapp.com?owner=mhamzas&repo=DynamicFlowProgress">
+  <img alt="Deploy to Salesforce"
+       src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
+</a>
 
 ---
 
